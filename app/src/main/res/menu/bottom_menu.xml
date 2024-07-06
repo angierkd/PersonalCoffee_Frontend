@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/myrecipe"
+        android:title="MY레시피"
+
+        />
+
+    <item
+        android:id="@+id/friendlist"
+        android:title="친구목록"
+        />
+
+    <item
+        android:id="@+id/recommend"
+        android:title="추천레시피"
+        />
+</menu>
